@@ -7,7 +7,7 @@ public class switchCetakKRS16 {
         int semester = sc.nextInt();
         switch (semester) {
                 case 1:
-                System.out.println("KRS senester 1 ditampilkan");
+                System.out.println("KRS semester 1 ditampilkan");
                 break;
                 case 2:
                 System.out.println("KRS senester 2 ditampilkan");
