@@ -10,22 +10,22 @@ public class switchCetakKRS16 {
                 System.out.println("KRS semester 1 ditampilkan");
                 break;
                 case 2:
-                System.out.println("KRS senester 2 ditampilkan");
+                System.out.println("KRS semester 2 ditampilkan");
                 break;
                 case 3:
-                System.out.println("KRS senester 3 ditampilkan");
+                System.out.println("KRS semester 3 ditampilkan");
                 break;
                 case 4:
-                System.out.println("KRS senester 4 ditampilkan");
+                System.out.println("KRS semester 4 ditampilkan");
                 break;
                 case 5:
-                System.out.println("KRS senester 5 ditampilkan");
+                System.out.println("KRS semester 5 ditampilkan");
                 break;
                 case 6:
-                System.out.println("KRS senester 6 ditampilkan");
+                System.out.println("KRS semester 6 ditampilkan");
                 break;
                 case 7:
-                System.out.println("KRS senester 7 ditampilkan");
+                System.out.println("KRS semester 7 ditampilkan");
                 break;case 8:
                 default:
                 System.out.println("Semester tidak valid");
