@@ -6,7 +6,7 @@ public class ifCetakKRS16 {
         System.out.println("--- Cetak KRS SIAKAD ---");
         System.out.println("Apakah UKT sudah lunas? (true/false): ");
         boolean UKTLunas = sc.nextBoolean();
-        System.out.println(UKTLunas ? "ukt terverivikasi ":" ukt tidak terverivikasi");
+        System.out.println(UKTLunas ? "ukt terverifikasi ":" ukt tidak terverivikasi");
         
 
     }
